@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P_ImageSwitcher__JVm</string>
+    <string name="TV_Judul_IDXML">Klik \"Selanjutnya\"</string>
+    <string name="TV_Judul_IDXML2">Klik \"Sebelumnya\"</string>
+    <string name="B_Sebelumnya_IDXML">Sebelumnya</string>
+    <string name="B_Selanjutnya_IDXML">Selanjutnya</string>
+</resources>
